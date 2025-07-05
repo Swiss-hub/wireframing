@@ -119,3 +119,33 @@ Wireframes strip away visual distractions and focus on **core interactions**, ma
 **Example**: A wireframe for the hotel search page can highlight whether filters and sorting options are easy to find and use, improving the overall user experience.
 
 > In short, wireframes are the scaffolding that supports thoughtful, user-centered software development. They help teams build with confidence, clarity, and collaboration.
+
+## 🧠 Real-World Scenario: Wireframing Uncovers Usability Issues
+
+During the early design phase of a hotel booking platform, the team created a **low-fidelity wireframe** to map out the user journey—from searching hotels to completing a booking. While reviewing the wireframe with stakeholders and testers, a major usability issue surfaced:  
+**Users couldn’t easily find or access their booking history.**
+
+### ⚠️ Identified Issue
+The wireframe placed the “My Bookings” section deep within a dropdown menu, making it hard to locate. Testers noted that this was a critical feature users would expect to access quickly—especially for cancellations or viewing upcoming reservations.
+
+### ✅ Resolution
+Based on feedback, the design team:
+- Moved the “My Bookings” link to the top navigation bar.
+- Added a dashboard-style landing page after login, showing recent and upcoming bookings.
+- Included quick-access buttons for modifying or canceling reservations.
+
+### 🌟 Impact on Final Product
+- **Improved User Satisfaction**: Users could now access booking details with fewer clicks.
+- **Reduced Support Requests**: Fewer users contacted customer service for help locating bookings.
+- **Streamlined Navigation**: The updated layout made the app feel more intuitive and responsive.
+
+---
+
+## 🧭 Summary: The Role of Wireframing
+
+Wireframing played a pivotal role in catching usability flaws **before** any code was written. By visualizing the user flow early, the team was able to:
+- Test ideas quickly and gather feedback.
+- Align design decisions with user expectations.
+- Save time and resources by avoiding costly redesigns later.
+
+> In short, wireframes are the silent heroes of user-friendly design—helping teams build smarter, smoother, and more intuitive software from the very beginning.
