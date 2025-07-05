@@ -67,3 +67,29 @@ These are polished, detailed mockups that closely resemble the final product. Th
 The wireframe used in this project is a **low-fidelity wireframe**. It was designed to focus on layout structure, user flow, and core functionality without visual distractions. This approach allowed for quick iteration and clear communication of system behavior during the requirement analysis phase.
 
 > As the project evolves, this wireframe can be refined into a high-fidelity version for UI design and development handoff.
+
+## 🛠️ Popular Wireframing Tools
+
+Wireframing tools help designers and developers visualize layout, structure, and user flow before diving into detailed design or development. Here are some widely used tools in the industry:
+
+### 🌟 Recommended: Figma
+**Figma** is a browser-based design tool known for its intuitive interface and powerful collaboration features. It’s ideal for both low-fidelity and high-fidelity wireframes.
+
+**Key Features**:
+- Real-time collaboration for teams
+- Drag-and-drop wireframe kits and templates
+- Interactive prototyping and user flow mapping
+- Cloud-based access with version control
+- Plugins and integrations for extended functionality
+
+**Why It’s Great for Wireframing**:
+Figma allows teams to quickly sketch ideas, iterate designs, and gather feedback—all in one place. Its flexibility makes it perfect for early-stage wireframes and polished mockups alike.
+
+### 🧰 Other Popular Tools
+- **Adobe XD**: Great for wireframing and prototyping with a focus on UI/UX design.
+- **Balsamiq**: Known for its low-fidelity, sketch-style wireframes—perfect for early brainstorming.
+- **Lucidchart**: Ideal for flowcharts and wireframes with strong diagramming capabilities.
+- **Sketch**: A macOS-based design tool popular for UI design and wireframing.
+- **Miro**: Excellent for remote teams collaborating on wireframes and whiteboard-style layouts.
+
+> Choosing the right tool depends on your workflow, team size, and project needs. Figma stands out for its versatility and ease of use across all stages of wireframing.
